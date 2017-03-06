@@ -9,7 +9,7 @@ function DeviceXX (options) {
 	delete options.host;
 	this._options = options;
 }
-DeviceXX.prototype.contructor = DeviceXX;
+
 DeviceXX.prototype.connect = function(){
 	return connect(this._host, this._options);
 }
