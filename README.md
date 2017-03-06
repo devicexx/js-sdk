@@ -29,6 +29,6 @@ Device++物联云
 </html>
 ```
 
-### Copyright
+## Copyright
 
 &copy; 2016-2017 万加物联（深圳）科技有限公司
