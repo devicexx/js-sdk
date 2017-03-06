@@ -1,4 +1,6 @@
-# Device++物联云 JS SDK
+# JS SDK
+
+Device++物联云
 
 ## 使用说明
 
@@ -26,3 +28,7 @@
 	</body>
 </html>
 ```
+
+### Copyright
+
+&copy; 2016-2017 万加物联（深圳）科技有限公司
